@@ -1,0 +1,47 @@
+damage_keywords:
+  - бит
+  - битая
+  - битый
+  - дтп
+  - авария
+  - аварийный
+  - не на ходу
+  - не заводится
+  - требует ремонта
+  - утопленник
+  - утопленная
+  - вода
+  - залит
+  - сгорел
+  - пожар
+  - после пожара
+  - нет двигателя
+  - без двигателя
+  - нет мотора
+  - без мотора
+  - нет коробки
+  - без коробки
+  - сработали подушки
+  - airbag
+  - подушки безопасности
+  - тотал
+  - salvage
+  - flood
+  - water damage
+  - non runner
+search_queries:
+  - Porsche Panamera GTS 2019 битая
+  - Porsche Panamera GTS 2019 не на ходу
+  - Porsche Panamera GTS 2019 после ДТП
+  - Porsche Panamera GTS 2019 утопленник
+  - Porsche Panamera GTS 2019 аварийная
+  - Porsche 911 2019 битая
+  - Porsche 911 2019 не на ходу
+  - Porsche 911 2019 после ДТП
+  - Porsche 911 2019 утопленник
+  - Porsche 911 2019 аварийная
+  - Porsche 911 2019 damaged
+  - Porsche 911 2019 salvage
+  - Porsche 911 2019 non runner
+  - Porsche Panamera GTS 2019 damaged
+  - Porsche Panamera GTS 2019 salvage

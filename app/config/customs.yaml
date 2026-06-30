@@ -1,0 +1,20 @@
+customs:
+  currency: EUR
+  age_group: older_than_5_years
+  duty_rates:
+    passenger_car:
+      2300_3000_cc: 5.0
+      over_3000_cc: 5.7
+  recycling_fee:
+    panamera_gts_2019_default: 6187200
+    porsche_911_2019_default_min: 3981600
+    porsche_911_2019_default_max: 4327200
+  customs_fee_default: 18465
+  broker_fee_default: 120000
+  sbkts_epts_default: 90000
+  glonass_default: 80000
+  auction_fee_default: 180000
+  delivery_to_port_default: 150000
+  export_docs_default: 70000
+  shipping_to_russia_default: 450000
+  delivery_inside_russia_default: 120000

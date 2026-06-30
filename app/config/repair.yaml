@@ -1,0 +1,17 @@
+repair_ranges:
+  light: [300000, 800000]
+  medium: [800000, 1800000]
+  heavy: [1800000, 3500000]
+  flood: [2000000, 5000000]
+  fire: [2500000, 6000000]
+  engine_missing: [2000000, 4500000]
+  transmission_missing: [1200000, 3000000]
+expensive_parts:
+  PDK: [800000, 2500000]
+  engine: [1500000, 5000000]
+  turbo: [300000, 1200000]
+  airbags: [400000, 1500000]
+  headlights: [300000, 900000]
+  front_radiators: [250000, 800000]
+  pneumatic_suspension: [300000, 1200000]
+  control_units: [300000, 2000000]
