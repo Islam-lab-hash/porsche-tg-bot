@@ -10,6 +10,6 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 
 COPY . .
-RUN pip install --no-cache-dir -e ".[dev]"
+RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["python", "-m", "app.main"]
+CMD ["python", "main.py"]
